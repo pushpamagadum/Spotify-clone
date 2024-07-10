@@ -8,11 +8,7 @@ This project is a Spotify clone built using React.js. It replicates some basic f
 
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Project Structure](#project-structure)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
@@ -33,3 +29,6 @@ This project is a Spotify clone built using React.js. It replicates some basic f
    ```sh
    git clone https://github.com/yourusername/spotify-clone.git
    cd spotify-clone
+
+## Technologies Used
+HTML,CSS,JavaScript, ReactJS.
