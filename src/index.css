@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+::-webkit-scrollbar{
+    display:none;
+}
+
+
+.bullet-point::before {
+    content: '•'; /* Bullet character */
+    margin-right: 0.5em; /* Space between bullet and text */
+}
